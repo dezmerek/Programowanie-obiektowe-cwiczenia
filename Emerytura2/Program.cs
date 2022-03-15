@@ -11,6 +11,8 @@ namespace Emerytura
             int wiekEmerytalny = Convert.ToInt32(Console.ReadLine());
             int doEmerytury = wiekEmerytalny - wiekOsoby;
 
+            int ostatniaCyfra = doEmerytury % 10;
+
             Console.WriteLine($"Witaj, {nazwisko}!");
 
             if (wiekOsoby < 0 || wiekEmerytalny < 0)
@@ -20,6 +22,14 @@ namespace Emerytura
             else if (wiekOsoby >= wiekEmerytalny)
             {
                 Console.WriteLine("Jesteś emerytem!");
+            }
+            else if (ostatniaCyfra == 2 || ostatniaCyfra == 3 || ostatniaCyfra == 4)
+            {
+                Console.WriteLine($"Do emerytury brakuje Ci {doEmerytury} lata!");
+            }
+            else if (doEmerytury == 1)
+            {
+                Console.WriteLine($"Do emerytury brakuje Ci {doEmerytury} rok!");
             }
             else
             {
