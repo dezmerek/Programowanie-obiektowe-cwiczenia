@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emerytura2", "Emerytura2\Em
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emerytura3", "Emerytura3\Emerytura3.csproj", "{2C88DB20-58F0-4570-9469-A028A7428A86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parametry trójkąta", "Parametry trójkąta\Parametry trójkąta.csproj", "{EB45169D-8701-42A4-BF76-21C68409B55B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2C88DB20-58F0-4570-9469-A028A7428A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C88DB20-58F0-4570-9469-A028A7428A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C88DB20-58F0-4570-9469-A028A7428A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB45169D-8701-42A4-BF76-21C68409B55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB45169D-8701-42A4-BF76-21C68409B55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB45169D-8701-42A4-BF76-21C68409B55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB45169D-8701-42A4-BF76-21C68409B55B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
