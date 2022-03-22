@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emerytura1", "Emerytura1\Emerytura1.csproj", "{E4FECE6A-AECC-46A1-A495-51B77D5D23E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emerytura1", "Emerytura1\Emerytura1.csproj", "{E4FECE6A-AECC-46A1-A495-51B77D5D23E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emerytura2", "Emerytura2\Emerytura2.csproj", "{8D95625F-2CA3-479E-BD43-2C38FF1D2B4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emerytura2", "Emerytura2\Emerytura2.csproj", "{8D95625F-2CA3-479E-BD43-2C38FF1D2B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emerytura3", "Emerytura3\Emerytura3.csproj", "{2C88DB20-58F0-4570-9469-A028A7428A86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emerytura3", "Emerytura3\Emerytura3.csproj", "{2C88DB20-58F0-4570-9469-A028A7428A86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parametry trójkąta", "Parametry trójkąta\Parametry trójkąta.csproj", "{EB45169D-8701-42A4-BF76-21C68409B55B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parametry trójkąta", "Parametry trójkąta\Parametry trójkąta.csproj", "{EB45169D-8701-42A4-BF76-21C68409B55B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Różnice kwadratowe", "Różnice kwadratowe\Różnice kwadratowe.csproj", "{970829FD-C2E0-40B4-8B24-BC97E9FEABF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3-Cwiczenia", "Lab3-Cwiczenia\Lab3-Cwiczenia.csproj", "{35B2B9B8-5B39-4926-BBEE-3BE042532136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{EB45169D-8701-42A4-BF76-21C68409B55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB45169D-8701-42A4-BF76-21C68409B55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB45169D-8701-42A4-BF76-21C68409B55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970829FD-C2E0-40B4-8B24-BC97E9FEABF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970829FD-C2E0-40B4-8B24-BC97E9FEABF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970829FD-C2E0-40B4-8B24-BC97E9FEABF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970829FD-C2E0-40B4-8B24-BC97E9FEABF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B2B9B8-5B39-4926-BBEE-3BE042532136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B2B9B8-5B39-4926-BBEE-3BE042532136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B2B9B8-5B39-4926-BBEE-3BE042532136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B2B9B8-5B39-4926-BBEE-3BE042532136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
