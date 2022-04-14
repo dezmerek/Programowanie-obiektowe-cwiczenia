@@ -28,13 +28,27 @@ namespace Różnice_kwadratowe
                 {
                     Console.WriteLine("empty");
                     return;
-                };
+                }
+                else if (a == 0 & c == 0) 
+                {
+                    double x = c / b;
+
+                    Console.WriteLine("x=" + Math.Round(x, 2) + ".00");
+                    return;
+                }
+                else if (a == 0)
+                {
+                    double x = c / b;
+
+                    Console.WriteLine("x=" + "-" + Math.Round(x, 2) + "0");
+                    return;
+                }
 
                 if (delta == 0)
                 {
                     double x0 = -b / (2 * a);
 
-                    Console.WriteLine("x=" + x0 + ".00");
+                    Console.WriteLine("x=" + Math.Round(x0,2) + ".00");
                 }
                 else if (delta < 0)
                 {
