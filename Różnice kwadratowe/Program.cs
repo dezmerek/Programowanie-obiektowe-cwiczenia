@@ -33,14 +33,14 @@ namespace Różnice_kwadratowe
                 {
                     double x = c / b;
 
-                    Console.WriteLine("x=" + Math.Round(x, 2) + ".00");
+                    Console.WriteLine("x=" + String.Format("{0:0.00}", Math.Round(x, 2)));
                     return;
                 }
                 else if (a == 0)
                 {
                     double x = c / b;
 
-                    Console.WriteLine("x=" + "-" + Math.Round(x, 2) + "0");
+                    Console.WriteLine("x=" + "-" + String.Format("{0:0.00}", Math.Round(x, 2)));
                     return;
                 }
 
@@ -48,7 +48,7 @@ namespace Różnice_kwadratowe
                 {
                     double x0 = -b / (2 * a);
 
-                    Console.WriteLine("x=" + Math.Round(x0,2) + ".00");
+                    Console.WriteLine("x=" + String.Format("{0:0.00}", Math.Round(x0, 2)));
                 }
                 else if (delta < 0)
                 {
@@ -59,8 +59,8 @@ namespace Różnice_kwadratowe
                     double x1 = (-b - Math.Sqrt(delta)) / (2 * a);
                     double x2 = (-b + Math.Sqrt(delta)) / (2 * a);
 
-                    Console.WriteLine("x1=" + x1 + ".00");
-                    Console.WriteLine("x2=" + x2 + ".00");
+                    Console.WriteLine("x1=" + String.Format("{0:0.00}", Math.Round(x1, 2)));
+                    Console.WriteLine("x2=" + String.Format("{0:0.00}", Math.Round(x2, 2)));
                 }
             }
             QuadraticEquation(a, b, c);
