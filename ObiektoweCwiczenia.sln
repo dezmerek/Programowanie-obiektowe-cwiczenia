@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parametry trójkąta", "Par
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Różnice kwadratowe", "Różnice kwadratowe\Różnice kwadratowe.csproj", "{970829FD-C2E0-40B4-8B24-BC97E9FEABF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3-Cwiczenia", "Lab3-Cwiczenia\Lab3-Cwiczenia.csproj", "{35B2B9B8-5B39-4926-BBEE-3BE042532136}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3-Cwiczenia", "Lab3-Cwiczenia\Lab3-Cwiczenia.csproj", "{35B2B9B8-5B39-4926-BBEE-3BE042532136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objętość stożka", "Objętość stożka\Objętość stożka.csproj", "{B30988A7-FE69-4271-90E5-1EF43455E52E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{35B2B9B8-5B39-4926-BBEE-3BE042532136}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35B2B9B8-5B39-4926-BBEE-3BE042532136}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35B2B9B8-5B39-4926-BBEE-3BE042532136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30988A7-FE69-4271-90E5-1EF43455E52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30988A7-FE69-4271-90E5-1EF43455E52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30988A7-FE69-4271-90E5-1EF43455E52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30988A7-FE69-4271-90E5-1EF43455E52E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
