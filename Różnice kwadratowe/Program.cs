@@ -29,7 +29,7 @@ namespace Różnice_kwadratowe
                     Console.WriteLine("empty");
                     return;
                 }
-                else if (a == 0 & c == 0) 
+                else if (a == 0 & c == 0)
                 {
                     double x = c / b;
 
