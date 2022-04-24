@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3-Cwiczenia", "Lab3-Cwic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Objętość stożka", "Objętość stożka\Objętość stożka.csproj", "{B30988A7-FE69-4271-90E5-1EF43455E52E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow-chart niestrukturalny na kod 1", "Flow-chart niestrukturalny na kod\Flow-chart niestrukturalny na kod 1.csproj", "{B61E98CA-CF17-4FE9-97EC-CA9862B288E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flow-chart niestrukturalny na kod 1", "Flow-chart niestrukturalny na kod\Flow-chart niestrukturalny na kod 1.csproj", "{B61E98CA-CF17-4FE9-97EC-CA9862B288E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow-chart niestrukturalny na kod 2", "Flow-chart niestrukturalny na kod 2\Flow-chart niestrukturalny na kod 2.csproj", "{A79C1DE0-72D5-4EEB-B52E-D8E8FC20942F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flow-chart niestrukturalny na kod 2", "Flow-chart niestrukturalny na kod 2\Flow-chart niestrukturalny na kod 2.csproj", "{A79C1DE0-72D5-4EEB-B52E-D8E8FC20942F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow-chart niestrukturalny na kod 3", "Flow-chart niestrukturalny na kod 3\Flow-chart niestrukturalny na kod 3.csproj", "{1B4339F1-87C3-4D3E-A998-EE861D54CD42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{A79C1DE0-72D5-4EEB-B52E-D8E8FC20942F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A79C1DE0-72D5-4EEB-B52E-D8E8FC20942F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A79C1DE0-72D5-4EEB-B52E-D8E8FC20942F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4339F1-87C3-4D3E-A998-EE861D54CD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4339F1-87C3-4D3E-A998-EE861D54CD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4339F1-87C3-4D3E-A998-EE861D54CD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4339F1-87C3-4D3E-A998-EE861D54CD42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Flow_chart_niestrukturalny_na_kod_3</RootNamespace>
+  </PropertyGroup>
+
+</Project>
