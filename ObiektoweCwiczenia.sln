@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.1.32210.238
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emerytura1", "Emerytura1\Emerytura1.csproj", "{E4FECE6A-AECC-46A1-A495-51B77D5D23E5}"
 EndProject
@@ -31,7 +31,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratoria", "Laboratoria"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Spoj", "Spoj", "{B68F4AF5-9941-42E8-A68D-49450BE98747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Przetwarzanie tablic 1-D", "Przetwarzanie tablic 1-D\Przetwarzanie tablic 1-D.csproj", "{34244306-9AFC-4F1A-93C0-F30F3AEB0A44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Przetwarzanie tablic 1-D", "Przetwarzanie tablic 1-D\Przetwarzanie tablic 1-D.csproj", "{34244306-9AFC-4F1A-93C0-F30F3AEB0A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprawdzian1", "sprawdzian1\sprawdzian1.csproj", "{F657DF6F-BF3C-4C32-9EA5-E5B1FA2ECA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprawdzian2", "sprawdzian2\sprawdzian2.csproj", "{509DD5FF-8199-46AE-B5E1-18F4DF09D5A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprawdzian3", "sprawdzian3\sprawdzian3.csproj", "{5267B29C-EBD0-42AD-9623-356DFEA3788C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{34244306-9AFC-4F1A-93C0-F30F3AEB0A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34244306-9AFC-4F1A-93C0-F30F3AEB0A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34244306-9AFC-4F1A-93C0-F30F3AEB0A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F657DF6F-BF3C-4C32-9EA5-E5B1FA2ECA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F657DF6F-BF3C-4C32-9EA5-E5B1FA2ECA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F657DF6F-BF3C-4C32-9EA5-E5B1FA2ECA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F657DF6F-BF3C-4C32-9EA5-E5B1FA2ECA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509DD5FF-8199-46AE-B5E1-18F4DF09D5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509DD5FF-8199-46AE-B5E1-18F4DF09D5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509DD5FF-8199-46AE-B5E1-18F4DF09D5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509DD5FF-8199-46AE-B5E1-18F4DF09D5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5267B29C-EBD0-42AD-9623-356DFEA3788C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5267B29C-EBD0-42AD-9623-356DFEA3788C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5267B29C-EBD0-42AD-9623-356DFEA3788C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5267B29C-EBD0-42AD-9623-356DFEA3788C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
