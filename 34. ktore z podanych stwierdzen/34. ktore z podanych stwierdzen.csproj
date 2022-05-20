@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_34._ktore_z_podanych_stwierdzen</RootNamespace>
+  </PropertyGroup>
+
+</Project>

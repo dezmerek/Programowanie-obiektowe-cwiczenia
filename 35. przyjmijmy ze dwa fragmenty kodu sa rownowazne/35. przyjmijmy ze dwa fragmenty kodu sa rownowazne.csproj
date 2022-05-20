@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_35._przyjmijmy_ze_dwa_fragmenty_kodu_sa_rownowazne</RootNamespace>
+  </PropertyGroup>
+
+</Project>
